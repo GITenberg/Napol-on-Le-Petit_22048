@@ -1,0 +1,33 @@
+_repo: Napol-on-Le-Petit_22048
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_bookshelf:
+- FR Politique
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2007-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22048'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon III, Emperor of the French, 1808-1873'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Second Republic, 1848-1852'
+- !lcsh 'France -- History -- Coup d''état, 1851'
+title: Napoléon Le Petit
+url: http://www.gutenberg.org/ebooks/22048
